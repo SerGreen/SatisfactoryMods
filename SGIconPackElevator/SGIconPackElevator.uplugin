@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.1",
+	"VersionName": "1.1.0",
 	"FriendlyName": "Elevator Icon Pack",
 	"Description": "A set of monochrome icons with numbered floors and basements.",
 	"Category": "Modding",
@@ -14,6 +14,6 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-	"SemVersion": "1.0.1",
+	"SemVersion": "1.1.0",
 	"GameVersion": ">=383729"
 }
