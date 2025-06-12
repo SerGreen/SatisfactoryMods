@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Rough Concrete Wall Material",
+	"Description": "Wall material that matches the side texture of a concrete foundation.",
+	"Category": "Modding",
+	"CreatedBy": "SerGreen",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.11.0"
+		},
+		{
+			"Name": "MoreWalls",
+			"Enabled": true,
+			"SemVersion": "^1",
+			"Optional": true
+		}
+	],
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=410840"
+}
