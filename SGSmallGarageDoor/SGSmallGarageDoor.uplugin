@@ -1,0 +1,38 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Small Roll-Up Gate",
+	"Description": "Same as the Roll-Up Gate, but the size of one wall, 8x4m.",
+	"Category": "Modding",
+	"CreatedBy": "SerGreen",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.11.1"
+		},
+		{
+			"Name": "SGRoughConcreteWallMaterial",
+			"Enabled": true,
+			"Optional": true,
+			"SemVersion": "^1"
+		},
+		{
+			"Name": "MoreWalls",
+			"Enabled": true,
+			"Optional": true,
+			"SemVersion": "^1"
+		}
+	],
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=416835"
+}
