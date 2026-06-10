@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.2",
+	"VersionName": "1.2.0",
 	"FriendlyName": "HUB Bed Collision Fix",
 	"Description": "Removes an invisible wall that prevents you from entering sleeping pods in the HUB.",
 	"Category": "Modding",
@@ -18,9 +18,10 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.11.3"
+			"SemVersion": "^3.12.0"
 		}
 	],
-	"SemVersion": "1.0.2",
-	"GameVersion": ">=416835"
+	"SemVersion": "1.2.0",
+	"GameVersion": ">=491125",
+	"BuiltInInitialFeatureState": "Active"
 }
