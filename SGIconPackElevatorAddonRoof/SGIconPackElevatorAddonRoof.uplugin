@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.2.0",
+	"FriendlyName": "Elevator Icon Pack Add-on: Roof",
+	"Description": "Add-on for Elevator Icon Pack that contains icons for roof floors.",
+	"Category": "Modding",
+	"CreatedBy": "SerGreen",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SGIconPackElevator",
+			"Enabled": true,
+			"SemVersion": "^1.0.1"
+		},
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.12.0"
+		}
+	],
+	"SemVersion": "1.2.0",
+	"GameVersion": ">=491125",
+	"BuiltInInitialFeatureState": "Active"
+}
